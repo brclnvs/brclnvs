@@ -4,9 +4,7 @@ I'm Bruno, an Electronic Engineering student with a passion for embedded systems
 
 **Skills:** (learning)
 - C/C++
-- Rust
-- Verilog
-- VHDL
+- Verilog/SystemVerilog
 - Linux systems
 
 I'm always open to new tech and love diving into the hardware-software mix to create cool stuff. Always up for learning and teaming up on exciting projects.
